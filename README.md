@@ -1,6 +1,6 @@
-# WeldingHelmets Online - E-commerce de Cascos de Soldadura
+# WeldingHelmets Online - E-commerce de prueba tecnica
 
-Una aplicación web moderna desarrollada con Next.js 15 para la venta de cascos de soldadura profesionales.
+Una aplicación web moderna desarrollada con Next.js 15 para probar mis habilidades como frontend developer 
 
 ## 🚀 Características Principales
 
